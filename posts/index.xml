@@ -6,18 +6,18 @@
     <description>Recent content in Posts on 徐江宁的小窝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 07 Dec 2019 14:27:39 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2019 15:27:39 +0800</lastBuildDate>
     
 	<atom:link href="https://swordlegend2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>开博大吉</title>
-      <link>https://swordlegend2.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
-      <pubDate>Sat, 07 Dec 2019 14:27:39 +0800</pubDate>
+      <title>如何用 hugo 搭建个人博客</title>
+      <link>https://swordlegend2.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 07 Dec 2019 15:27:39 +0800</pubDate>
       
-      <guid>https://swordlegend2.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      <description>大家好 我的博客开通了，希望我能写出好文章给大家看</description>
+      <guid>https://swordlegend2.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>安装Hugo  去Hugo releases页面下载hugo_xxx_Windows-64bit.zip 解压，把hugo.exe所在目录加到PATH 重启终端，运行hugo version  看文档搞出网站  进入Hugo官网 从Step 2到7，抄代码 得到一个public目录，这就是我们的博客站点 使用hugo server预览  </description>
     </item>
     
     <item>
@@ -27,6 +27,15 @@
       
       <guid>https://swordlegend2.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>大家好 第二</description>
+    </item>
+    
+    <item>
+      <title>开博大吉</title>
+      <link>https://swordlegend2.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <pubDate>Sat, 07 Dec 2019 10:27:39 +0800</pubDate>
+      
+      <guid>https://swordlegend2.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <description>大家好 我的博客开通了，希望我能写出好文章给大家看</description>
     </item>
     
   </channel>
